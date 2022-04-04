@@ -8,12 +8,16 @@
 - 🌱 I’m currently learning 
    - <i>Web Development </i>
    - <i>Networking </i>
-   - <i>Ethical Hacking and Penetration Testing with Kali Linux </i>
+   - <i>JavaScript</i>
+   - <i>JQuery</i>
+   - <i>React Js</i>
 - 💞️ I’m looking to collaborate on any project. 
 - 📫 How to reach me 
-  - <b></b> samiullah1701734@gmail.com
-  - <b><a href= "https://www.facebook.com/samiullah.saleem.5036">Facebook</a></b> 
-  - <b><a href= "https://www.linkedin.com/in/samiullahsaleem">Linkedin</a></b>
+  - <b></b> mehmoodj523@gmail.com 
+  - or via 
+  - <b></b> bitf20m032@pucit.edu.pk
+  - <b><a href= "https://www.facebook.com/jamshaid.mehmood.102">Facebook</a></b> 
+  - <b><a href= "https://www.linkedin.com/in/jamshaid-mehmood-05b88720a/">Linkedin</a></b>
   
 
 <!---
