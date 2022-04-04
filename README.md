@@ -11,6 +11,9 @@
    - <i>JavaScript</i>
    - <i>JQuery</i>
    - <i>React Js</i>
+   - <i>Python</i>
+   - <i>C</i>
+   - <i>C++</i>
 - 💞️ I’m looking to collaborate on any project. 
 - 📫 How to reach me 
   - <b></b> mehmoodj523@gmail.com 
