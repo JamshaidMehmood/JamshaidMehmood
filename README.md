@@ -7,6 +7,7 @@
    - <i>Cloud Technology and many more.</i>
 - 🌱 I’m currently learning 
    - <i>Web Development </i>
+   - <i>Bootstrap</i>
    - <i>Networking </i>
    - <i>JavaScript</i>
    - <i>JQuery</i>
