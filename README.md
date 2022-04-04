@@ -1,4 +1,4 @@
-# 👋 Hi, I’m <b>Sami Ullah Jamshaid Mehmood.</b>
+# 👋 Hi, I’m <b>Jamshaid Mehmood.</b>
 ## I am studying IT at the Punjab University College Of Information and Technology
 
 - 👀 <b> I’m interested in </b>
