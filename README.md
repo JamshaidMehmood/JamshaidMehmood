@@ -142,7 +142,6 @@ Two-sided freelance marketplace, a full v2 re-architecture of a legacy prototype
 
 <div align="center">
 
-![Jamshaid's GitHub stats](https://github-readme-stats.vercel.app/api?username=JamshaidMehmood&show_icons=true&theme=default&hide_border=true)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JamshaidMehmood&layout=compact&hide_border=true)
 
 </div>
